@@ -32,7 +32,7 @@ FLAGGED_KEYWORDS = {
     "wurst",
     "baritone",
     "augustus",
-    "vape",
+    "vape", # Feel free to add more flagged keywords
 }
 
 TARGET_STRING = "SERVER NAME"
