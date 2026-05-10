@@ -11,6 +11,12 @@ Usage:
     python main.py scan -d /path/to/logs
     python main.py scan --dry-run
     python main.py scan --all
+    ----
+    LINUX:
+    python3 main.py scan
+    python3 main.py scan -d /path/to/logs
+    python3 main.py scan --dry-run
+    python3 main.py scan --all
 """
 
 from pathlib import Path
